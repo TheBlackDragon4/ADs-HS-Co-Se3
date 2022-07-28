@@ -21,5 +21,5 @@ Programm: Eclipse
 <br>SDK: 15.0.1</br>
 
 Link zum Moodle Raum:
-[Hier der Link zum ADs Moodlekurs](https://moodle.hs-coburg.de/course/view.php?id=9069)
+[Hier der Link zum ADs Moodlekurs](https://moodle.hs-coburg.de/course/view.php?id=9200)
 
