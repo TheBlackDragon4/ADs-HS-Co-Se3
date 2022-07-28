@@ -18,7 +18,7 @@ Hiermit möchte ich ausdrücklich darauf hinweisen, dass ich das eigenständige 
 ## Sonstiges:
 
 Programm: Eclipse
-SDK: 15.0.1
+<br>SDK: 15.0.1</br>
 
 Link zum Moodle Raum:
 [Hier der Link zum ADs Moodlekurs](https://moodle.hs-coburg.de/course/view.php?id=9069)
